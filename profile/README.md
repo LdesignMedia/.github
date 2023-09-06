@@ -1,7 +1,7 @@
 
 ## Ldesign Media
 
-We are specialised in creating customisations for the Moodle™ software platform. Moodle is one of the biggest open-source Learning Management Systems available. Currently, Moodle is used worldwide for digital learning! We work for a broad selection of customers, ranging from big companies and organisations to small ones. 
+We excel in developing custom plugins and features for Moodle™, a premier open-source Learning Management System with a global footprint.
 
 https://ldesignmedia.nl/en
 
