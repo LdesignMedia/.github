@@ -31,6 +31,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Contact-support@ldesignmedia.nl-orange?style=flat-square">
   </a>
 </p>
+<img width="3168" height="1344" alt="ldesign-moodle 1" src="https://github.com/user-attachments/assets/b8937360-e39f-4a68-9af4-c9ced4a9e32c" />
 
 ## 👋 About Ldesign Media
 
