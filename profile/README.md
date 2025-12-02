@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://ldesignmedia.nl/nl">🌐 Website (NL)</a> •
   <a href="https://ldesignmedia.nl/en">🌐 Website (EN)</a> •
-  <a href="https://github.com/LdesignMedia">📦 GitHub</a> •
   <a href="mailto:support@ldesignmedia.nl">✉️ Contact</a>
 </p>
 
