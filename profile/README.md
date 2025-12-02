@@ -98,7 +98,7 @@ We actively contribute to the Moodle community and maintain several public repos
 
 Some examples:
 
-- [`moodle-local_commander`](https://github.com/LdesignMedia/moodle-local_commander) – Quick navigation local plugin for Moodle 3.x.
+- [`moodle-local_commander`](https://github.com/LdesignMedia/moodle-local_commander) – Quick navigation local plugin for Moodle.
 - [`moodle-availability_ipaddress`](https://github.com/LdesignMedia/moodle-availability_ipaddress) – Availability condition to restrict access to activities by IP range.
 - [`moodle-mod_openwebinar`](https://github.com/LdesignMedia/moodle-mod_openwebinar) – Webinar / webcast module with chat and file sharing (archived).
 - [`moodle-docker-brew`](https://github.com/LdesignMedia/moodle-docker-brew) – Local Moodle plugin development tooling for macOS / Homebrew.
