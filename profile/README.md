@@ -37,7 +37,7 @@
 
 Ldesign Media is a specialist in LMS platform customization, with a strong focus on the Moodle™ software platform. We help organisations get the most out of their learning environment by extending Moodle with smart, robust and maintainable solutions, used by customers ranging from large enterprises and educational institutes to smaller organisations.
 
-With over 18 years of experience in software development and hundreds of Moodle plugins delivered, we know the platform inside out and understand what it means to run Moodle in production for real users.
+With over <b>18 years</b> of experience in software development and hundreds of Moodle plugins delivered, we know the platform inside out and understand what it means to run Moodle in production for real users.
 
 ## 💡 What we do
 
